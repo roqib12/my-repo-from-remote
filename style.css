@@ -9,7 +9,7 @@ body {
   
  #profile-container{
     max-width: 300px;
-    margin: 80px auto;
+    margin: 10px auto;
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
@@ -23,6 +23,10 @@ body {
  #profile-name{
     text-align: center;
  }
+
+ #profile-job {
+    text-align: center;
+}
 
  #footer {
     width: 100%;
